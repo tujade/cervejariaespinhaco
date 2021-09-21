@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/86531281/134208909-a198f589-67ef-4ff4-97e3-d57ce696c13c.png)
+
 # Olá! 👋
 
 ## 🚀 Tecnologias
