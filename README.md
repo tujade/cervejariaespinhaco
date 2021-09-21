@@ -20,6 +20,6 @@ O Projeto foi desenvolvido a partir das aulas ministradas na **NLW Together - Di
 
 ## 👩‍💻 Como Usar?
 
-1. Acesse o link:
+1. Acesse o link:  https://tujade.github.io/cervejariaespinhaco/
 
 Espero que gostem! ❤️
